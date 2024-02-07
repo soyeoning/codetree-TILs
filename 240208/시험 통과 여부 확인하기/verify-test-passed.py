@@ -1,5 +1,5 @@
 n = int(input())
-minus = 8 - n
+minus = 80 - n
 if n > 80:
     print('pass')
 else:
